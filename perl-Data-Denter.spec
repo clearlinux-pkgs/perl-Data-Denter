@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Denter
 Version  : 0.15
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/I/IN/INGY/Data-Denter-0.15.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IN/INGY/Data-Denter-0.15.tar.gz
 Summary  : No detailed summary available
@@ -83,5 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Data/Denter.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Data/Denter.pod
+/usr/lib/perl5/*
