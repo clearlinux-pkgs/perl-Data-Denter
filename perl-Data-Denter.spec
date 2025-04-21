@@ -7,7 +7,7 @@
 #
 Name     : perl-Data-Denter
 Version  : 0.15
-Release  : 20
+Release  : 21
 URL      : https://cpan.metacpan.org/authors/id/I/IN/INGY/Data-Denter-0.15.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/I/IN/INGY/Data-Denter-0.15.tar.gz
 Summary  : No detailed summary available
